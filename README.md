@@ -1,2 +1,2 @@
 # BMI-Calculator-App
-The BMI Calculator app is a health and fitness tool designed to help users calculate their BMI.
+The BMI (Body Mass Index) Calculator app is a health and fitness tool designed to help users calculate their BMI, a measure of body fat based on height and weight. The app features an easy-to-use interface, allowing users to input their weight and height to determine their BMI. The app also provides information on healthy BMI ranges and offers tips for maintaining a healthy weight. It's a great tool for anyone looking to monitor their weight and overall health. The app is compatible with most smartphones and tablets.
